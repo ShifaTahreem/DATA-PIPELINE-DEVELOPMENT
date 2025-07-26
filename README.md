@@ -97,3 +97,8 @@ Confirms that the final CSV file has been created.
 
 The project files are well-commented and stored in a public GitHub repository for review. This project marks an important step in my data science and engineering journey, and I look forward to building more advanced pipelines in the future.
 
+OUTPUT:
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/dead76d7-6def-46e9-a244-f5f370937086" />
+
+
